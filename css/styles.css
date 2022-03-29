@@ -52,3 +52,27 @@ header {
   color: rgb(66, 194, 104);
 }
 
+.presentation {
+  color: black;
+  margin: 60px 30px;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.fruits-basket {
+  margin: 30px 15px 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fruits-basket img {
+  width: 8%;
+}
+
+h1 {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
